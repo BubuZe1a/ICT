@@ -1,0 +1,36 @@
+[1]
+
+
+	void subtract (int x, int y) {
+	
+	}
+	
+[2]
+
+	void greeting (int hi) {
+	
+	}
+	
+[3]S
+
+	void loopmethod (int su) {
+	
+	}
+	
+[4]
+
+	double circle (double r) {
+	
+		double 넓이 = r * r * Math.PI;
+		
+		return result;
+	}
+	
+[5]
+
+	int square (int i, int j) {
+	
+	}
+
+
+
